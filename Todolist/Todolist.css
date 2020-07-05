@@ -1,0 +1,18 @@
+@charset "utf-8";
+.wrap {
+    margin: 0 auto;
+    text-align: center;
+}
+h1 {
+    font-size: 100px;
+}
+.todo {
+    width: 500px;
+    height: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+.todo:focus {
+    background-color: khaki;
+}
+
