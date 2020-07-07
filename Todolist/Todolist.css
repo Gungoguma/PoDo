@@ -6,13 +6,19 @@
 h1 {
     font-size: 100px;
 }
+
 .todo {
     width: 500px;
-    height: 30px;
+    height: 40px;
     border-radius: 10px;
     text-align: center;
+    font-size: 20px;
 }
+
 .todo:focus {
     background-color: khaki;
 }
 
+.header {
+    font-size: 20px;
+}
